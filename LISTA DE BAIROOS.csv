@@ -1,0 +1,146 @@
+name,restaurant_id,item_category_id,price,image,is_recommended,is_popular,is_new,desc,is_veg
+Jardim Amazonas,1,2,0,NULL,0,0,0,NULL,0
+Cosme e Damião,1,2,0,NULL,0,0,0,NULL,0
+Quati 1 e 2,1,2,0,NULL,0,0,0,NULL,0
+João de Deus,1,2,0,NULL,0,0,0,NULL,0
+Loteamento Santo André,1,2,0,NULL,0,0,0,NULL,0
+Ipsep,1,2,0,NULL,0,0,0,NULL,0
+Vale Dourado,1,2,0,NULL,0,0,0,NULL,0
+Vila Esperança,1,2,0,NULL,0,0,0,NULL,0
+Jardim Maravilha,1,2,0,NULL,0,0,0,NULL,0
+Jardim São Paulo,1,2,0,NULL,0,0,0,NULL,0
+Pedra Linda,1,2,0,NULL,0,0,0,NULL,0
+Novo Tempo,1,2,0,NULL,0,0,0,NULL,0
+Alto do Cocar,1,2,0,NULL,0,0,0,NULL,0
+Antonio Cassimiro,1,2,0,NULL,0,0,0,NULL,0
+Pedro Raimundo,1,2,0,NULL,0,0,0,NULL,0
+Vale do Grande Rio,1,2,0,NULL,0,0,0,NULL,0
+Cacheado,1,2,0,NULL,0,0,0,NULL,0
+Loteamento Bela Vista,1,2,0,NULL,0,0,0,NULL,0
+Santa Luzia,1,2,0,NULL,0,0,0,NULL,0
+Terras do Sul,1,2,0,NULL,0,0,0,NULL,0
+Mandacaru,1,2,0,NULL,0,0,0,NULL,0
+Park Mandacaru,1,2,0,NULL,0,0,0,NULL,0
+São Joaquim,1,2,0,NULL,0,0,0,NULL,0
+São Jorge,1,2,0,NULL,0,0,0,NULL,0
+Dom Avelar,1,2,0,NULL,0,0,0,NULL,0
+Cohab Massangano ( COHAB IV e V),1,2,0,NULL,0,0,0,NULL,0
+Cohab VI (São Francisco),1,2,0,NULL,0,0,0,NULL,0
+Rio Claro,1,2,0,NULL,0,0,0,NULL,0
+Rio Corrente,1,2,0,NULL,0,0,0,NULL,0
+Ouro Preto,1,2,0,NULL,0,0,0,NULL,0
+São Gonçalo,1,2,0,NULL,0,0,0,NULL,0
+Alto da Boa Vista,1,2,0,NULL,0,0,0,NULL,0
+Jardim Guanabara,1,2,0,NULL,0,0,0,NULL,0
+Jardim Imperial,1,2,0,NULL,0,0,0,NULL,0
+Jardim Guararapes,1,2,0,NULL,0,0,0,NULL,0
+Jardim Petrópolis,1,2,0,NULL,0,0,0,NULL,0
+Nova Petrolina,1,2,0,NULL,0,0,0,NULL,0
+Parque Massangano,1,2,0,NULL,0,0,0,NULL,0
+Portal da Cidade,1,2,0,NULL,0,0,0,NULL,0
+Nova Brasil,1,2,0,NULL,0,0,0,NULL,0
+Distrito Industrial,1,2,0,NULL,0,0,0,NULL,0
+Valle dos Coqueiros,1,2,0,NULL,0,0,0,NULL,0
+Valle Flor de algodão,1,2,0,NULL,0,0,0,NULL,0
+Valle Petrolina,1,2,0,NULL,0,0,0,NULL,0
+Valle das Mangueiras,1,2,0,NULL,0,0,0,NULL,0
+Colina do Rio,1,2,0,NULL,0,0,0,NULL,0
+Loteamento Rafael,1,2,0,NULL,0,0,0,NULL,0
+Areia Branca(COHAB VELHA, I, II e III),1,2,0,NULL,0,0,0,NULL,0
+Caminho do Sol,1,2,0,NULL,0,0,0,NULL,0
+Cidade Jardim,1,2,0,NULL,0,0,0,NULL,0
+José e Maria,1,2,0,NULL,0,0,0,NULL,0
+Padre Cícero,1,2,0,NULL,0,0,0,NULL,0
+Vila Débora,1,2,0,NULL,0,0,0,NULL,0
+Dom Avelar,1,2,0,NULL,0,0,0,NULL,0
+Terras do Sul,1,2,0,NULL,0,0,0,NULL,0
+Cidade Universitária,1,2,0,NULL,0,0,0,NULL,0
+Loteamento Eduardo,1,2,0,NULL,0,0,0,NULL,0
+Vila Eduardo,1,2,0,NULL,0,0,0,NULL,0
+Loteamento Nova Iorque,1,2,0,NULL,0,0,0,NULL,0
+Fernando Idalino,1,2,0,NULL,0,0,0,NULL,0
+Henrique Leite,1,2,0,NULL,0,0,0,NULL,0
+Horizonte,1,2,0,NULL,0,0,0,NULL,0
+Loteamento Geovana,1,2,0,NULL,0,0,0,NULL,0
+Loteamento Recife,1,2,0,NULL,0,0,0,NULL,0
+Dona Alexandrina,1,2,0,NULL,0,0,0,NULL,0
+Vila Marcela,1,2,0,NULL,0,0,0,NULL,0
+Maria Auxiliadora,1,2,0,NULL,0,0,0,NULL,0
+Park Jatobá 1,1,2,0,NULL,0,0,0,NULL,0
+Park Jatobá 2,1,2,0,NULL,0,0,0,NULL,0
+Rio Jordão,1,2,0,NULL,0,0,0,NULL,0
+Vila Carolina,1,2,0,NULL,0,0,0,NULL,0
+Vila Eulália,1,2,0,NULL,0,0,0,NULL,0
+Vila Vitória,1,2,0,NULL,0,0,0,NULL,0
+Atrás da Banca,1,2,0,NULL,0,0,0,NULL,0
+Orla I,1,2,0,NULL,0,0,0,NULL,0
+Orla II,1,2,0,NULL,0,0,0,NULL,0
+Centro I,1,2,0,NULL,0,0,0,NULL,0
+Centro II (rua de baixo),1,2,0,NULL,0,0,0,NULL,0
+Centro III,1,2,0,NULL,0,0,0,NULL,0
+São José (Alto Cheiroso),1,2,0,NULL,0,0,0,NULL,0
+Gercino Coelho,1,2,0,NULL,0,0,0,NULL,0
+Vila Mocó,1,2,0,NULL,0,0,0,NULL,0
+Km 1,1,2,0,NULL,0,0,0,NULL,0
+km 2,1,2,0,NULL,0,0,0,NULL,0
+Parque Bandeirantes,1,2,0,NULL,0,0,0,NULL,0
+Terras Alpha,1,2,0,NULL,0,0,0,NULL,0
+Petrolina Antiga,1,2,0,NULL,0,0,0,NULL,0
+Vila Massangano ( Agrovila Massangano),1,2,0,NULL,0,0,0,NULL,0
+Vila do Roçado,1,2,0,NULL,0,0,0,NULL,0
+Caatinguinha,1,2,0,NULL,0,0,0,NULL,0
+Ilha do Manssangando,1,2,0,NULL,0,0,0,NULL,0
+Alto,1,2,0,NULL,0,0,0,NULL,0
+Antonio Guilhermino,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Angari,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Argemiro,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Alto Da Aliança,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Alto Do Cruzeiro,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Alto Do Alencar,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Alto Da Maravilha,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Antonio Conselheiro,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Centro,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Castelo Branco,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Cajueiro,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Centenario,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Cidade Universitária,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Coreia,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Dom Jose Rodrigues,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Dom Tomaz,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Expedito de Almeida Nascimento,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Itaberaba,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Jardim Primavera,1,JUAZ3,0,NULL,0,0,0,NULL,0
+João XXIII,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Jardim Vitoria,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Jardim Florida,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Jardim Universitario,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Jardim Novo Encontro,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Jardim Das Acacias,1,JUAZ3,0,NULL,0,0,0,NULL,0
+João Paulo II,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Lomanto Junior,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Malhada da Areia,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Monte Castelo,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Monte Cerrat,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Matatu,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Maringá,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Nossa Senhora Das Grotas,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Nossa Senhora Da Penha,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Padre Vicente (CODEVASF),1,JUAZ3,0,NULL,0,0,0,NULL,0
+Piranga,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Piranga II,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Quide,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Residencial São Francisco,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Residencial Praia Do Rodeadouro,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Residencial Brisa Da Serra,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Residencial Doutor Humberto,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Residencial Mairi,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Residencial Juazeiro I,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Residencial Juazeiro II,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Residencial Juazeiro III,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Sol Levante,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Sol Nascente,1,JUAZ3,0,NULL,0,0,0,NULL,0
+São Geraldo,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Tabuleiro,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Tancredo Neves,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Vila Tiradentes,1,JUAZ3,0,NULL,0,0,0,NULL,0
+Vila Mandacaru,1,JUAZ3,0,NULL,0,0,0,NULL,0
